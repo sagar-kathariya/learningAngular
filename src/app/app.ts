@@ -9,4 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected readonly title = signal('Angular-app');
+  name="SAGAR KATHARIYA";
+  age="19"
 }
